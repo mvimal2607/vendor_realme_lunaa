@@ -544,8 +544,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/lunaa/proprietary/odm/vendor/firmware/ancap64.b06:$(TARGET_COPY_OUT_ODM)/vendor/firmware/ancap64.b06 \
     vendor/realme/lunaa/proprietary/odm/vendor/firmware/ancap64.b07:$(TARGET_COPY_OUT_ODM)/vendor/firmware/ancap64.b07 \
     vendor/realme/lunaa/proprietary/odm/vendor/firmware/ancap64.mdt:$(TARGET_COPY_OUT_ODM)/vendor/firmware/ancap64.mdt \
-    vendor/realme/lunaa/proprietary/product/etc/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml \
-    vendor/realme/lunaa/proprietary/product/etc/apns-version.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-version.xml \
     vendor/realme/lunaa/proprietary/vendor/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode:$(TARGET_COPY_OUT_VENDOR)/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode \
     vendor/realme/lunaa/proprietary/vendor/etc/init/ipa_fws.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/ipa_fws.rc \
     vendor/realme/lunaa/proprietary/vendor/etc/libnfc-hal-st.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-hal-st.conf \
