@@ -742,8 +742,6 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.cammidasservice@1.0 \
     vendor.oplus.hardware.osense.client-V1-ndk_platform \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
-    libDeVIS \
-    libVDBlurlessAPI_v2 \
     liblvimfs \
     liblvimfs_wrapper \
     anc.hal \
@@ -769,6 +767,7 @@ PRODUCT_PACKAGES += \
     libBokehPre \
     libCOppLceTonemapAPI \
     libCaptureBokeh \
+    libDeVIS \
     libEIS \
     libFaceBeautyCap \
     libFaceBeautyPICap \
@@ -878,6 +877,7 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.oplusSensor-V1-ndk_platform \
     vendor.oplus.hardware.orms@1.0 \
     vendor.oplus.hardware.osense.client@1.0 \
+    vendor.oplus.hardware.performance-V1-ndk_platform \
     vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform \
     vendor.oplus.hardware.sendextcamcmd-V1-service-impl \
     libQnnHtpAltPrepSkelodm_aiboost \
