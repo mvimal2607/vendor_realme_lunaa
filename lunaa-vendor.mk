@@ -873,7 +873,6 @@ PRODUCT_PACKAGES += \
     libwatermark_photo \
     vendor.oplus.hardware.cammidasservice-V1-ndk_platform \
     vendor.oplus.hardware.commondcs-V1-ndk_platform \
-    vendor.oplus.hardware.olc2-V1-ndk_platform \
     vendor.oplus.hardware.oplusSensor-V1-ndk_platform \
     vendor.oplus.hardware.orms@1.0 \
     vendor.oplus.hardware.osense.client@1.0 \
